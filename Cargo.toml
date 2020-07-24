@@ -1,0 +1,11 @@
+[package]
+name = "particle-swarm"
+version = "0.1.0"
+authors = ["colbyn <hello@colbyn.com>"]
+edition = "2018"
+
+
+[dependencies]
+rand = "0.7.3"
+nannou = "0.14.1"
+colourado = "0.2.0"
